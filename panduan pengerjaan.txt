@@ -1,0 +1,23 @@
+Untuk UTS dan UAS-nya.
+Silahkan teman2 mengerjakan Folder UTS dan UAS di Github masing2, didalam folder Utama, Riset Informatika.
+
+Nanti didalam Folder tsb diberi folder lagi masing-masing sesuai kemajuan tugas masing-masing.
+
+Syarat minimal Tugas UTS:
+- Proposal Penelitian tentang bitcoin
+- Dataset Rencana Riset Kecil
+- Research Gap
+- Research Mind Map
+- Rencana Evaluation Metric yang digunakan.
+- Referensi paper 40 sampai 50 real minimal sinta 3 (5 tahun terakhir)
+Syarat minimal Tugas UAS:
+- Draft Paper Publikasi (ambil sinta 3)
+- Dataset yang telah digunakan untuk Riset Kecil
+- PPT Presentasi
+
+KERJAKAN DENGAN PENELITIAN TENTANG SOLANA YANG SANGAT MENARIK UNTUK DIJADIKAN PENELITIAN (Dan penelitiannya sangat sempurna di mata dosen dan reviewer), humanize,
+JIKA ADA RUMUS GUNAKAN EQUATION SUPAYA RAPI
+UNTUK TEMPLATE PROPOSAL PENELITIAN BISA LIAT DI FILE PANDUAN SKRIPSI INFORMATIKA
+Kerjakan dengan bijaksana dan hasilnya memuaskan
+Muhammad Bazwa Arigusna NPM 23081010250
+Dr. Basuki Rahmat, S.Si. MT
