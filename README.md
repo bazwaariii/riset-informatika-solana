@@ -52,12 +52,12 @@ Pengujian dilakukan pada **2.080 observasi harian bersih Solana (`SOL-USD`)** pe
 ## Tautan Cepat ke Setiap Komponen
 
 ### A. Komponen Tugas UTS
-1. [**01. Proposal Penelitian (Pra-Skripsi)**](./UTS/01_Proposal_Penelitian/) — Mengikuti 100% Pedoman Skripsi Fasilkom UPNVJT 2025 (Sampul Pra-Skripsi, Abstrak ID/EN, BAB I–III, 19 *Native Word Equations*, dan 48 Sitasi IEEE).
-2. [**02. Dataset Rencana Riset Kecil**](./UTS/02_Dataset_Rencana_Riset_Kecil/) — Data mentah (`2.099` baris) & multivariat (`2.080` baris × `20` kolom) beserta dokumen kamus data.
-3. [**03. Research Gap**](./UTS/03_Research_Gap/) — Analisis 4 kesenjangan penelitian utama dan matriks *State-of-the-Art*.
-4. [**04. Research Mind Map**](./UTS/04_Research_Mind_Map/) — Diagram visual *Mind Map* (`PNG`, `SVG`, `Mermaid`, dan penjelasan `.docx`).
-5. [**05. Rencana Evaluation Metric**](./UTS/05_Rencana_Evaluation_Metric/) — Perumusan matematis MAE, RMSE, MAPE, $R^2$, dan *Directional Accuracy* dengan *Equation* resmi.
-6. [**06. Referensi Paper (48 Paper Riil 2021–2026)**](./UTS/06_Referensi_Paper/) — Daftar 48 paper terverifikasi DOI (Jurnal Nasional SINTA 2/3 & Scopus/IEEE) dalam format `.docx`, `.csv`, dan `.bib`.
+1. [**01. Proposal Penelitian (Pra-Skripsi)**](./UTS/01_Proposal_Penelitian/)  Mengikuti 100% Pedoman Skripsi Fasilkom UPNVJT 2025 (Sampul Pra-Skripsi, Abstrak ID/EN, BAB I–III, 19 *Native Word Equations*, dan 48 Sitasi IEEE).
+2. [**02. Dataset Rencana Riset Kecil**](./UTS/02_Dataset_Rencana_Riset_Kecil/)  Data mentah (`2.099` baris) & multivariat (`2.080` baris × `20` kolom) beserta dokumen kamus data.
+3. [**03. Research Gap**](./UTS/03_Research_Gap/)  Analisis 4 kesenjangan penelitian utama dan matriks *State-of-the-Art*.
+4. [**04. Research Mind Map**](./UTS/04_Research_Mind_Map/)  Diagram visual *Mind Map* (`PNG`, `SVG`, `Mermaid`, dan penjelasan `.docx`).
+5. [**05. Rencana Evaluation Metric**](./UTS/05_Rencana_Evaluation_Metric/)  Perumusan matematis MAE, RMSE, MAPE, $R^2$, dan *Directional Accuracy* dengan *Equation* resmi.
+6. [**06. Referensi Paper (48 Paper Riil 2021–2026)**](./UTS/06_Referensi_Paper/)  Daftar 48 paper terverifikasi DOI (Jurnal Nasional SINTA 2/3 & Scopus/IEEE) dalam format `.docx`, `.csv`, dan `.bib`.
 
 ### B. Komponen Tugas UAS
 1. [**01. Draft Paper Publikasi (Standar Jurnal SINTA 3)**](./UAS/01_Draft_Paper_Publikasi/) — Naskah publikasi ilmiah siap *submit* lengkap dengan hasil eksperimen, studi ablasi, dan 19 *Native Word Equations*.
