@@ -60,6 +60,6 @@ Pengujian dilakukan pada **2.080 observasi harian bersih Solana (`SOL-USD`)** pe
 6. [**06. Referensi Paper (48 Paper Riil 2021–2026)**](./UTS/06_Referensi_Paper/)  Daftar 48 paper terverifikasi DOI (Jurnal Nasional SINTA 2/3 & Scopus/IEEE) dalam format `.docx`, `.csv`, dan `.bib`.
 
 ### B. Komponen Tugas UAS
-1. [**01. Draft Paper Publikasi (Standar Jurnal SINTA 3)**](./UAS/01_Draft_Paper_Publikasi/) — Naskah publikasi ilmiah siap *submit* lengkap dengan hasil eksperimen, studi ablasi, dan 19 *Native Word Equations*.
-2. [**02. Dataset dan Eksperimen Riset Kecil**](./UAS/02_Dataset_dan_Eksperimen_Riset_Kecil/) — Dataset final, kode Python, Jupyter Notebook (`.ipynb`), 8 grafik publikasi 300 DPI, dan laporan eksperimen.
-3. [**03. PPT Presentasi**](./UAS/03_PPT_Presentasi/) — Slide presentasi `.pptx` widescreen 13 halaman.
+1. [**01. Draft Paper Publikasi (Standar Jurnal SINTA 3)**](./UAS/01_Draft_Paper_Publikasi/)  Naskah publikasi ilmiah siap *submit* lengkap dengan hasil eksperimen, studi ablasi, dan 19 *Native Word Equations*.
+2. [**02. Dataset dan Eksperimen Riset Kecil**](./UAS/02_Dataset_dan_Eksperimen_Riset_Kecil/)  Dataset final, kode Python, Jupyter Notebook (`.ipynb`), 8 grafik publikasi 300 DPI, dan laporan eksperimen.
+3. [**03. PPT Presentasi**](./UAS/03_PPT_Presentasi/)  Slide presentasi `.pptx` widescreen 13 halaman.
